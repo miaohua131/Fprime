@@ -1,0 +1,7 @@
+/home/miao/Desktop/MyProject/fprime/Fw/Cmd/Cmd.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Log/Log.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Tlm/Tlm.fpp
+/home/miao/Desktop/MyProject/fprime/Svc/FileManager/Commands.fppi
+/home/miao/Desktop/MyProject/fprime/Svc/FileManager/Events.fppi
+/home/miao/Desktop/MyProject/fprime/Svc/FileManager/Telemetry.fppi
+/home/miao/Desktop/MyProject/fprime/Svc/Ping/Ping.fpp

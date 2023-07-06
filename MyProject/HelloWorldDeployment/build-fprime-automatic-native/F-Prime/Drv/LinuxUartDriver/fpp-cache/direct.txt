@@ -1,0 +1,5 @@
+/home/miao/Desktop/MyProject/fprime/Drv/ByteStreamDriverModel/ByteStreamDriverModel.fpp
+/home/miao/Desktop/MyProject/fprime/Drv/LinuxUartDriver/Events.fppi
+/home/miao/Desktop/MyProject/fprime/Drv/LinuxUartDriver/Telemetry.fppi
+/home/miao/Desktop/MyProject/fprime/Fw/Log/Log.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Tlm/Tlm.fpp

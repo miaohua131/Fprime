@@ -1,0 +1,10 @@
+/home/miao/Desktop/MyProject/fprime/Fw/Buffer/Buffer.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Cmd/Cmd.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Com/Com.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Log/Log.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Tlm/Tlm.fpp
+/home/miao/Desktop/MyProject/fprime/Svc/BufferLogger/Commands.fppi
+/home/miao/Desktop/MyProject/fprime/Svc/BufferLogger/Events.fppi
+/home/miao/Desktop/MyProject/fprime/Svc/BufferLogger/Telemetry.fppi
+/home/miao/Desktop/MyProject/fprime/Svc/Ping/Ping.fpp
+/home/miao/Desktop/MyProject/fprime/Svc/Sched/Sched.fpp

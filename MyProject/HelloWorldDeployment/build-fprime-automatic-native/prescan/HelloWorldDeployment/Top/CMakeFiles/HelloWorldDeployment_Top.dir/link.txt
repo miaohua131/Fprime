@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libHelloWorldDeployment_Top.a CMakeFiles/HelloWorldDeployment_Top.dir/home/miao/Desktop/MyProject/fprime/cmake/empty.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libHelloWorldDeployment_Top.a

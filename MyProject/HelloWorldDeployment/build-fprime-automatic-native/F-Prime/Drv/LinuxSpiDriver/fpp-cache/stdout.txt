@@ -1,0 +1,6 @@
+/home/miao/Desktop/MyProject/fprime/Drv/SpiDriverPorts/SpiDriverPorts.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Buffer/Buffer.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Log/Log.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Time/Time.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Tlm/Tlm.fpp
+/home/miao/Desktop/MyProject/fprime/config/FpConfig.fpp

@@ -1,0 +1,2 @@
+/home/miao/Desktop/MyProject/fprime/Fw/Cmd/Cmd.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Com/Com.fpp

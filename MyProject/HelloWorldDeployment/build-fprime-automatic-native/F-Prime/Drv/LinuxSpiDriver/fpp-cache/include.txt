@@ -1,0 +1,2 @@
+/home/miao/Desktop/MyProject/fprime/Drv/LinuxSpiDriver/Events.fppi
+/home/miao/Desktop/MyProject/fprime/Drv/LinuxSpiDriver/Telemetry.fppi

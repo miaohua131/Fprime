@@ -1,0 +1,8 @@
+/home/miao/Desktop/MyProject/fprime/Fw/Cmd/Cmd.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Log/Log.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Tlm/Tlm.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Types/Types.fpp
+/home/miao/Desktop/MyProject/fprime/Svc/Ping/Ping.fpp
+/home/miao/Desktop/MyProject/fprime/Svc/Sched/Sched.fpp
+/home/miao/Desktop/MyProject/fprime/Svc/WatchDog/WatchDog.fpp
+/home/miao/Desktop/MyProject/fprime/config/AcConstants.fpp

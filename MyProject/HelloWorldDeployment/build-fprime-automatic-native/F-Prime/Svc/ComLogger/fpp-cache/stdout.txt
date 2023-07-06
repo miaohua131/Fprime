@@ -1,0 +1,6 @@
+/home/miao/Desktop/MyProject/fprime/Fw/Cmd/Cmd.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Com/Com.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Log/Log.fpp
+/home/miao/Desktop/MyProject/fprime/Fw/Time/Time.fpp
+/home/miao/Desktop/MyProject/fprime/Svc/Ping/Ping.fpp
+/home/miao/Desktop/MyProject/fprime/config/FpConfig.fpp

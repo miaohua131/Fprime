@@ -1,0 +1,2 @@
+/home/miao/Desktop/MyProject/fprime/Svc/FileUplink/Events.fppi
+/home/miao/Desktop/MyProject/fprime/Svc/FileUplink/Telemetry.fppi
